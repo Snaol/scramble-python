@@ -119,7 +119,7 @@ def shuffled():
     #Display the shuffled word to the screen
     my_label.config(text=shuffled_word)
 
-#Check if the user's answer is "Correct" or "Incorrect"
+#Check if the user's answer is "Correct" or "Incorrect".
 def answer():
     if word== user_answer.get():
         answer_label.config(text="Correct",fg='green2')
