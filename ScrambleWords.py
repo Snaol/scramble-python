@@ -3,7 +3,7 @@ from tkinter import messagebox
 from random import choice
 from random import shuffle
 import time
-import pygame
+#import pygame
 
 #Create tkinter
 Scramble = Tk()
