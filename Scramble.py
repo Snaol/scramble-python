@@ -37,7 +37,7 @@ list_colors=['medium blue','turquoise1','DeepPink2','SeaGreen1','DarkOrchid1','o
 color1 = choice(list_colors) #For the title
 color2 = choice(list_colors) #For the shuffled word
 
-#Label SCRAMBLE
+#Label SCRAMBLE !!
 Game_Title= Label(Home_frame,text="SCRAMBLED WORDS",font=('Vladimir Script', 69,'bold'),fg=color1,bg='gray17')
 Game_Title.pack(pady=20)
 
