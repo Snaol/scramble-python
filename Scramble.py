@@ -1,4 +1,4 @@
-from tkinter import *
+'''from tkinter import *
 from tkinter import messagebox
 from random import choice
 from random import shuffle
@@ -40,5 +40,4 @@ color2 = choice(list_colors) #For the shuffled word
 #Label SCRAMBLE 
 Game_Title= Label(Home_frame,text="SCRAMBLED WORDS",font=('Vladimir Script', 69,'bold'),fg=color1,bg='gray17')
 Game_Title.pack(pady=20)
-
-
+'''
